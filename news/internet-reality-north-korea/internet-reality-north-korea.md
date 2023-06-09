@@ -1,5 +1,9 @@
 # The Bizarre Reality of Getting Online in North Korea
 
+https://www.wired.com/story/internet-reality-north-korea/
+
+http://web.archive.org/web/20230609074805/https://www.wired.com/story/internet-reality-north-korea/
+
 For 25 million North Koreans, the internet is an impossibility. Only a few thousand privileged members of the hermit kingdom’s society can access the global internet, while even the country’s heavily censored internal intranet is out of reach for the majority of the population. Getting access to free and open information isn’t an option.
 
 New research from South Korea-based human rights organization People for Successful Corean Reunification (Pscore) details the reality for those who—in very limited circumstances—manage to get online in North Korea. The report reveals a days-long approval process to gain internet access, after which monitors sit next to people while they browse and approve their activities every five minutes. Even then, what can be accessed reveals little about the world outside North Korea’s borders.
@@ -44,7 +48,7 @@ Globally, 5.3 billion people regularly use the internet, or around 66 percent of
 
 Bukovská says North Korea’s human rights record indicates that mandating internet access at a global level would likely not make much difference—bigger change within the country would be needed to implement such changes. But for those who have managed to leave the country, the difference is stark. “People will long for any new information, such as science and technology information,” defector Kim Suk-Han told researchers, “which are accessible through the internet.”
 
-https://www.wired.com/story/internet-reality-north-korea/
+
 
 对于 2500 万朝鲜人来说，互联网是不可能的。 只有几千名隐士王国社会的特权成员可以访问全球互联网，而即使是该国受到严格审查的内部网络，大多数人也无法访问。 获取免费和开放的信息不是一种选择。
 
